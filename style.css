@@ -13,30 +13,37 @@
   .banner1 {
     border-style: hidden border;
     border-radius: 40px;
-    box-shadow: 10px 5px 15px grey;
+    box-shadow: 10px 5px 15px silver;
     position: fixed;
     width: 380px;
     height: 70px;
-    margin-top: 20px;
+    margin-top: 2px;
     margin-left: 15px;
-    padding-left: 80px;
+    padding-left: 75px;
     padding-top: 12px;
-    font-size: 16px;
+    font-size: 17px;
   }
   .banner2 {
     border-style: hidden border;
     position: fixed;
     width: 340px;
     height: 50px;
-    margin: 40px;
+    margin-top: 20px;
+    margin-left: 80px;
     padding-top: 5px;
-    padding-left: 55px;
+    padding-left: 10px;
     font-size: 15px;
-    color: grey;
+    color: silver;
   }
   .banner3 {
-    border-style: dotted;
-    position: relative;
-    margin: 0;
-    top: 200px;
+    border-bottom-style: hidden border;
+    box-shadow: 10px 5px 10px silver;
+    position: fixed;
+    width: 425px;
+    height: 95px;
+    margin-top: 70px;
+    padding-top: 55px;
+    padding-left: 10px;
+    font-size: 14px;
+    color: grey;
   }
